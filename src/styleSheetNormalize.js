@@ -20,4 +20,6 @@ export function normalizeFontSize(styleObj: Styles) {
       }
     }
   }
+
+  return styleObj;
 }
