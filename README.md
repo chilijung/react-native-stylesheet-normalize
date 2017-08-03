@@ -20,6 +20,7 @@ import StyleSheetNormalize from 'react-native-stylesheet-normalize';
 
 const styles = StyleSheetNormalize.create({
   // your styles here
+  // all `fontSize` value will wrap with `normalize(<fontSize value>)`
 });
 ```
 
