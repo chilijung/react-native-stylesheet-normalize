@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "google",
+    "plugin:react/recommended",
+    "eslint:recommended"
+  ],
+  "parser": "babel-eslint",
+  "rules": {
+    "require-jsdoc": 0
+  }
+}
