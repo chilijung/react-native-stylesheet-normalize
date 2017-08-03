@@ -1,6 +1,6 @@
 # react-native-styleSheet-normalize
 
-normalize fontSize in react-native `StyleSheet`.
+normalize fontSize in different devices
 
 ## Install
 
