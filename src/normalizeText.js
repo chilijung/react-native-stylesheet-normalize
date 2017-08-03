@@ -58,7 +58,7 @@ export const normalize = (size) => {
       return size * 1.2;
     }
     // catch larger devices
-    // ie iphone 6s plus / 7 plus / mi note 等等
+    // ie iphone 6s plus / 7 plus / mi note etc..
     return size * 1.27;
   }
   if (pixelRatio === 3.5) {
