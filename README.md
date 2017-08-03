@@ -2,6 +2,12 @@
 
 normalize fontSize in react-native `StyleSheet`.
 
+## Install
+
+```
+yarn add react-native-stylesheet-normalize
+```
+
 
 ## Why 
 
