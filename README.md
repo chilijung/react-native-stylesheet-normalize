@@ -1,5 +1,7 @@
 # react-native-styleSheet-normalize
 
+[![Build Status](https://travis-ci.org/Canner/react-native-stylesheet-normalize.svg?branch=master)](https://travis-ci.org/Canner/react-native-stylesheet-normalize)
+
 normalize fontSize in different devices
 
 ## Install
