@@ -8,7 +8,9 @@
   ],
   "scripts": {
     "test": "jest",
-    "prepublish": "./node_modules/.bin/eslint src && ./node_modules/.bin/flow && npm run test"
+    "lint": "./node_modules/.bin/eslint src",
+    "flow": "./node_modules/.bin/flow",
+    "prepublish": "yarn run lint && yarn run flow && yarn run test"
   },
   "jest": {
     "preset": "react-native"
