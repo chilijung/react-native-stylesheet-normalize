@@ -1,5 +1,7 @@
 # react-native-styleSheet-normalize
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Canner/react-native-stylesheet-normalize.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/Canner/react-native-stylesheet-normalize.svg?branch=master)](https://travis-ci.org/Canner/react-native-stylesheet-normalize)
 
 normalize fontSize in different devices
